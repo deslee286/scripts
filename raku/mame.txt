@@ -1,0 +1,591 @@
+gtmro;1000 Miglia: Great 1000 Miles Rally (94/05/10);mame;gtmr;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;2
+gtmrb;1000 Miglia: Great 1000 Miles Rally (94/05/26);mame;gtmr;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;2
+gtmra;1000 Miglia: Great 1000 Miles Rally (94/06/13);mame;gtmr;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;2
+gtmr;1000 Miglia: Great 1000 Miles Rally (94/07/18);mame;;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;;;;2
+720gr1;720 Degrees (German, rev 1);mame;720;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;720;;;2
+720g;720 Degrees (German, rev 2);mame;720;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;720;;;2
+720r1;720 Degrees (rev 1);mame;720;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;720;;;2
+720r2;720 Degrees (rev 2);mame;720;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;720;;;2
+720r3;720 Degrees (rev 3);mame;720;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;720;;;2
+720;720 Degrees (rev 4);mame;;1986;Atari Games;Sports / Skateboarding;1;0;joystick (analog),dial;good;1;raster;;;;2
+agentx1;Agent X (prototype, rev 1);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+agentx2;Agent X (prototype, rev 2);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+agentx3;Agent X (prototype, rev 3);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+agentx4;Agent X (prototype, rev 4);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+airrace;Air Race (prototype);mame;;1985;Atari Games;Driving / Plane;1;0;double joystick,joystick (analog);imperfect;1;raster;;;;6
+akkanvdr;Akkanbeder (Ver 2.5J 1995/06/14);mame;spcinv95;1995;Taito Corporation;Shooter / Gallery;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;spcinv95;;;4
+albatross;Albatross (US Prototype?);mame;suprgolf;1989;Nasco;Sports / Golf;2;0;joystick (2-way),dial,joystick (2-way),dial;preliminary;1;raster;suprgolf;;;4
+alphaone;Alpha One (prototype, 3 lives);mame;mhavoc;1983;Atari;Shooter / Misc.;1;0;dial;good;1;vector;mhavoc;;;1
+alphaonea;Alpha One (prototype, 5 lives);mame;mhavoc;1983;Atari;Shooter / Misc.;1;0;dial;good;1;vector;mhavoc;;;1
+asoccer;American Soccer;mame;idsoccer;1987;Universal;Sports / Soccer;2;0;double joystick,double joystick;imperfect;1;raster;idsoccer;;;2
+amspdwy;American Speedway (set 1);mame;;1987;Enerdyne Technologies Inc.;Driving / Race Track;2;0;dial,dial;good;1;raster;;;;1
+amspdwya;American Speedway (set 2);mame;amspdwy;1987;Enerdyne Technologies Inc.;Driving / Race Track;2;0;dial,dial;good;1;raster;amspdwy;;;1
+angelkds;Angel Kids (Japan);mame;;1988;Sega / Nasco?;Climbing / Tree - Plant;2;90;double joystick,double joystick;good;1;raster;;;;
+aponow;Apocaljpse Now (bootleg of Rescue);mame;rescue;1982;bootleg;Shooter / Flying;1;90;double joystick;good;1;raster;rescue;;;1
+aquajackj;Aqua Jack (Japan);mame;aquajack;1990;Taito Corporation;Shooter / Driving (chase view);1;0;joystick (8-way),dial;imperfect;1;raster;aquajack;;;4
+aquajacku;Aqua Jack (US);mame;aquajack;1990;Taito America Corporation;Shooter / Driving (chase view);1;0;joystick (8-way),dial;imperfect;1;raster;aquajack;;;4
+aquajack;Aqua Jack (World);mame;;1990;Taito Corporation Japan;Shooter / Driving (chase view);1;0;joystick (8-way),dial;imperfect;1;raster;;;;4
+arabianmu;Arabian Magic (Ver 1.0A 1992/07/06);mame;arabianm;1992;Taito America Corporation;Fighter / 2.5D;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;arabianm;;;4
+arabianmj;Arabian Magic (Ver 1.0J 1992/07/06);mame;arabianm;1992;Taito Corporation;Fighter / 2.5D;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;arabianm;;;4
+arabianm;Arabian Magic (Ver 1.0O 1992/07/06);mame;;1992;Taito Corporation Japan;Fighter / 2.5D;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+arkangc;Arkanoid (Game Corporation bootleg, set 1);mame;arkanoid;1986;bootleg (Game Corporation);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkangc2;Arkanoid (Game Corporation bootleg, set 2);mame;arkanoid;1986;bootleg (Game Corporation);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidja;Arkanoid (Japan, newer w/level select);mame;arkanoid;1986;Taito Corporation;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidj;Arkanoid (Japan, newer);mame;arkanoid;1986;Taito Corporation;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidjb;Arkanoid (Japan, older);mame;arkanoid;1986;Taito Corporation;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkatayt;Arkanoid (Tayto bootleg);mame;arkanoid;1986;bootleg (Tayto);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arktayt2;Arkanoid (Tayto bootleg, harder);mame;arkanoid;1986;bootleg (Tayto);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidu;Arkanoid (US, newer);mame;arkanoid;1986;Taito America Corporation (Romstar license);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoiduo;Arkanoid (US, older);mame;arkanoid;1986;Taito America Corporation (Romstar license);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoid;Arkanoid (World, older);mame;;1986;Taito Corporation Japan;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;;;;1
+arkgcbl;Arkanoid (bootleg on Block hardware, set 1);mame;arkanoid;1986;bootleg;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkgcbla;Arkanoid (bootleg on Block hardware, set 2);mame;arkanoid;1986;bootleg;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+ark1ball;Arkanoid (bootleg with MCU, harder);mame;arkanoid;1986;bootleg;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidjbl;Arkanoid (bootleg with MCU, set 1);mame;arkanoid;1986;bootleg;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkanoidjbl2;Arkanoid (bootleg with MCU, set 2);mame;arkanoid;1986;bootleg (Beta);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arknoid2b;Arkanoid - Revenge of DOH (Japan bootleg);mame;arknoid2;1987;bootleg;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;arknoid2;;;1
+arknoid2j;Arkanoid - Revenge of DOH (Japan);mame;arknoid2;1987;Taito Corporation;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;arknoid2;;;1
+arknoid2u;Arkanoid - Revenge of DOH (US);mame;arknoid2;1987;Taito America Corporation (Romstar license);Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;arknoid2;;;1
+arknoid2;Arkanoid - Revenge of DOH (World);mame;;1987;Taito Corporation Japan;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;;;;1
+arkretrnu;Arkanoid Returns (Ver 2.02A 1997/02/10);mame;arkretrn;1997;Taito Corporation;Ball & Paddle / Breakout;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;arkretrn;;;4
+arkretrnj;Arkanoid Returns (Ver 2.02J 1997/02/10);mame;arkretrn;1997;Taito Corporation;Ball & Paddle / Breakout;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;arkretrn;;;4
+arkretrn;Arkanoid Returns (Ver 2.02O 1997/02/10);mame;;1997;Taito Corporation;Ball & Paddle / Breakout;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+armchmp2o;Arm Champs II v1.7;mame;armchmp2;1992;Jaleco;Sports / Armwrestling;1;270;dial;imperfect;1;raster;armchmp2;;;3
+armchmp2;Arm Champs II v2.6;mame;;1992;Jaleco;Sports / Armwrestling;1;270;dial;imperfect;1;raster;;;;3
+assaultj;Assault (Japan);mame;assault;1988;Namco;Shooter / Driving;2;90;double joystick,double joystick;good;1;raster;assault;;;1
+assault;Assault (Rev B);mame;;1988;Namco;Shooter / Driving;2;90;double joystick,double joystick;good;1;raster;;;;1
+assaultp;Assault Plus (Japan);mame;assault;1988;Namco;Shooter / Driving;2;90;double joystick,double joystick;good;1;raster;assault;;;1
+mgolf;Atari Mini Golf (prototype);mame;;1978;Atari;Sports / Golf;1;270;dial;preliminary;1;raster;;;;2
+aztarac;Aztarac;mame;;1983;Centuri;Shooter / Field;1;0;joystick (analog),dial;good;1;vector;;;;2
+badlands;Bad Lands;mame;;1989;Atari Games;Driving / Race Track;2;0;dial,dial;good;1;raster;;;;2
+bandido;Bandido;mame;sheriff;1980;Nintendo (Exidy license);Shooter / Field;1;270;double joystick;good;1;raster;sheriff;;;1
+bzonec;Battle Zone (cocktail);mame;bzone;1980;Atari;Shooter / Driving 1st Person;1;0;double joystick;good;1;vector;bzone;;;1
+bzonea;Battle Zone (rev 1);mame;bzone;1980;Atari;Shooter / Driving 1st Person;1;0;double joystick;good;1;vector;bzone;;;1
+bzone;Battle Zone (rev 2);mame;;1980;Atari;Shooter / Driving 1st Person;1;0;double joystick;good;1;vector;;;;1
+bwidow;Black Widow;mame;;1982;Atari;Shooter / Field;1;0;double joystick;good;1;vector;;;;
+bwidowp;Black Widow (prototype);mame;bwidow;1982;Atari;Shooter / Field;1;0;double joystick;preliminary;1;vector;bwidow;;;
+blstroidg;Blasteroids (German, rev 2);mame;blstroid;1987;Atari Games;Shooter / Field;2;0;dial,dial;good;1;raster;blstroid;;;4
+blstroid2;Blasteroids (rev 2);mame;blstroid;1987;Atari Games;Shooter / Field;2;0;dial,dial;good;1;raster;blstroid;;;4
+blstroid3;Blasteroids (rev 3);mame;blstroid;1987;Atari Games;Shooter / Field;2;0;dial,dial;good;1;raster;blstroid;;;4
+blstroid;Blasteroids (rev 4);mame;;1987;Atari Games;Shooter / Field;2;0;dial,dial;good;1;raster;;;;4
+blstroidh;Blasteroids (with heads);mame;blstroid;1987;Atari Games;Shooter / Field;2;0;dial,dial;good;1;raster;blstroid;;;4
+arkblock;Block (Game Corporation bootleg, set 1);mame;arkanoid;1986;bootleg (Game Corporation);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkbloc2;Block (Game Corporation bootleg, set 2);mame;arkanoid;1986;bootleg (Game Corporation);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+arkbloc3;Block (Game Corporation bootleg, set 3);mame;arkanoid;1986;bootleg (Game Corporation);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+block2;Block 2 (S.P.A. Co. bootleg);mame;arkanoid;1986;bootleg (S.P.A. Co.);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+blockj;Block Block (Japan 910910);mame;block;1991;Capcom;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;block;;;1
+blockr2;Block Block (World 910910);mame;block;1991;Capcom;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;block;;;1
+blockbl;Block Block (bootleg);mame;block;1991;bootleg;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;block;;;1
+blockgal;Block Gal (MC-8123B, 317-0029);mame;;1987;Sega / Vic Tokai;Ball & Paddle / Breakout * Mature *;2;90;dial,dial;good;1;raster;;;;1
+blockgalb;Block Gal (bootleg);mame;blockgal;1987;bootleg;Ball & Paddle / Breakout * Mature *;2;90;dial,dial;good;1;raster;blockgal;;;1
+blmbycar;Blomby Car;mame;;1994;ABM & Gecas;Driving / Race;2;0;joystick (8-way),joystick (analog),dial,joystick (8-way);good;1;raster;;;;2
+blmbycaru;Blomby Car (not encrypted);mame;blmbycar;1994;ABM & Gecas;Driving / Race;2;0;joystick (8-way),joystick (analog),dial,joystick (8-way);good;1;raster;blmbycar;;;2
+boxingb;Boxing Bugs;mame;;1981;Cinematronics;Shooter / Field;2;180;dial,only_buttons;imperfect;1;vector;;;;3
+brkblast;Brick Blast (bootleg of Wall Crash);mame;wallc;1984;bootleg (Fadesa);Ball & Paddle / Breakout;1;0;dial;good;1;raster;wallc;;;2
+brickzn11;Brick Zone (v1.1, Spinner);mame;brickzn;1992;SunA;Ball & Paddle / Breakout;2;90;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;brickzn;;;3
+brickznv4;Brick Zone (v4.0, Spinner);mame;brickzn;1992;SunA;Ball & Paddle / Breakout;2;90;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;brickzn;;;3
+brickznv5;Brick Zone (v5.0, Joystick);mame;brickzn;1992;SunA;Ball & Paddle / Breakout;2;90;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;brickzn;;;3
+brickzn;Brick Zone (v6.0, Joystick);mame;;1992;SunA;Ball & Paddle / Breakout;2;90;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;;;;3
+bublbob2p;Bubble Bobble II (Ver 0.0J 1993/12/13, prototype);mame;bublbob2;1994;Taito Corporation Japan;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bublbob2;;;4
+bublbob2o;Bubble Bobble II (Ver 2.5O 1994/10/05);mame;bublbob2;1994;Taito Corporation Japan;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bublbob2;;;4
+bublbob2;Bubble Bobble II (Ver 2.6O 1994/12/16);mame;;1994;Taito Corporation Japan;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+bubblemj;Bubble Memories: The Story Of Bubble Bobble III (Ver 2.3J 1996/02/07);mame;bubblem;1995;Taito Corporation;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bubblem;;;4
+bubblem;Bubble Memories: The Story Of Bubble Bobble III (Ver 2.4O 1996/02/15);mame;;1995;Taito Corporation Japan;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+bubblemu;Bubble Memories: The Story Of Bubble Bobble III (Ver 2.5A 1996/02/21);mame;bubblem;1995;Taito America Corporation;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bubblem;;;4
+bubsymphu;Bubble Symphony (Ver 2.5A 1994/10/05);mame;bublbob2;1994;Taito America Corporation;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bublbob2;;;4
+bubsymphj;Bubble Symphony (Ver 2.5J 1994/10/05);mame;bublbob2;1994;Taito Corporation;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bublbob2;;;4
+bubsymphe;Bubble Symphony (Ver 2.5O 1994/10/05);mame;bublbob2;1994;Taito Corporation Japan;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;bublbob2;;;4
+bubsymphb;Bubble Symphony (bootleg with OKI6295);mame;bublbob2;1994;bootleg;Platform / Run Jump;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);preliminary;1;raster;bublbob2;;;4
+bullet;Bullet (FD1094 317-0041);mame;;1987;Sega;Shooter / Walking;3;0;double joystick,double joystick,double joystick;good;1;raster;;;;
+bulletd;Bullet (bootleg of FD1094 317-0041 set);mame;bullet;1987;bootleg;Shooter / Walking;3;0;double joystick,double joystick,double joystick;good;1;raster;bullet;;;
+pbobble2u;Bust-A-Move Again (Ver 2.3A 1995/07/31);mame;pbobble2;1995;Taito America Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble2;;;4
+cm32l;CM32L;mame;;1989;Roland;Music / Audio Sequencer;1;0;dial;preliminary;1;lcd;;;;
+calibr50;Caliber 50 (Ver. 1.01);mame;;1989;Athena / Seta;Shooter / Walking;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+cameltryj;Cameltry (Japan, YM2610);mame;cameltry;1989;Taito Corporation;Puzzle / Maze;2;0;dial,dial;good;1;raster;cameltry;;;1
+cameltryau;Cameltry (US, YM2203 + M6295);mame;cameltry;1989;Taito America Corporation;Puzzle / Maze;2;0;dial,dial;good;1;raster;cameltry;;;1
+cameltry;Cameltry (US, YM2610);mame;;1989;Taito America Corporation;Puzzle / Maze;2;0;dial,dial;good;1;raster;;;;1
+cameltrya;Cameltry (World, YM2203 + M6295);mame;cameltry;1989;Taito America Corporation;Puzzle / Maze;2;0;dial,dial;good;1;raster;cameltry;;;1
+captflag;Captain Flag (Japan);mame;;1993;Jaleco;Misc. / Redemption;1;270;double joystick;imperfect;1;raster;;;;2
+carpolo;Car Polo;mame;;1977;Exidy;Sports / Misc.;4;0;dial,dial,dial,dial;preliminary;1;raster;;;;3
+cerberus;Cerberus;mame;;1985;Cinematronics;Shooter / Field;2;0;dial,dial;good;1;raster;;;;2
+chanbara;Chanbara;mame;;1985;Data East;Fighter / 2D;2;270;double joystick,double joystick;good;1;raster;;;;
+cleopatr;Cleopatra Fortune (Ver 2.1J 1996/09/05);mame;;1996;Taito Corporation;Puzzle / Drop;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+cloakfr;Cloak & Dagger (French);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+cloakgr;Cloak & Dagger (German);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+cloaksp;Cloak & Dagger (Spanish);mame;cloak;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;cloak;;;1
+cloak;Cloak & Dagger (rev 5);mame;;1983;Atari;Shooter / Field;1;0;double joystick;good;1;raster;;;;1
+coleco;ColecoVision (NTSC);mame;;1982;Coleco;Game Console / Home Videogame;2;0;joystick (8-way),dial,trackball,keypad,joystick (8-way),dial,only_buttons;good;1;raster;;;;1
+colecop;ColecoVision (PAL);mame;coleco;1983;Coleco;Game Console / Home Videogame;2;0;joystick (8-way),dial,trackball,keypad,joystick (8-way),dial,only_buttons;good;1;raster;coleco;;;1
+commandw;Command War - Super Special Battle & War Game (Ver 0.0J, prototype);mame;;1992;Taito Corporation;Fighter / Versus;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+complexx;Complex X;mame;;1984;Taito America Corporation;Platform / Shooter;1;270;double joystick;good;1;raster;;;;1
+cchasm;Cosmic Chasm (set 1);mame;;1983;Cinematronics / GCE;Shooter / Field;1;270;dial;good;1;vector;;;;3
+cchasm1;Cosmic Chasm (set 2);mame;cchasm;1983;Cinematronics / GCE;Shooter / Field;1;270;dial;good;1;vector;cchasm;;;3
+countrun;Counter Run (NS6201-A 1988.3);mame;;1988;Nihon System (Sega license);Maze / Driving;2;0;joystick (8-way),dial,joystick (8-way),dial;preliminary;1;raster;;;;2
+countrunb;Counter Run (bootleg set 1);mame;countrun;1988;bootleg;Maze / Driving;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;countrun;;;2
+countrunb2;Counter Run (bootleg set 2);mame;countrun;1988;bootleg;Maze / Driving;2;0;joystick (8-way),dial,joystick (8-way),dial;preliminary;1;raster;countrun;;;2
+crater;Crater Raider;mame;;1984;Bally Midway;Shooter / Driving;1;0;joystick (vertical2-way),dial;good;1;raster;;;;3
+bcclimbr;Crazy Climber (Bandai);mame;;1982;Bandai;Handheld / Electronic Game;1;0;double joystick;good;1;svg;;;;
+cclimberj;Crazy Climber (Japan);mame;cclimber;1980;Nichibutsu;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+ccbootmr;Crazy Climber (Model Racing bootleg);mame;cclimber;1980;bootleg (Model Racing);Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+cclimbroper;Crazy Climber (Spanish, Operamatic bootleg);mame;cclimber;1980;bootleg (Operamatic);Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+cclimbrrod;Crazy Climber (Spanish, Rodmar bootleg);mame;cclimber;1980;bootleg (Rodmar);Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+cclimber;Crazy Climber (US set 1);mame;;1980;Nichibutsu;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;;;;
+cclimbera;Crazy Climber (US set 2);mame;cclimber;1980;Nichibutsu;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+ccboot;Crazy Climber (bootleg set 1);mame;cclimber;1980;bootleg;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+ccboot2;Crazy Climber (bootleg set 2);mame;cclimber;1980;bootleg;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimber;;;
+cclimbr2;Crazy Climber 2 (Japan);mame;;1988;Nichibutsu;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;;;;
+cclimbr2a;Crazy Climber 2 (Japan, Harder);mame;cclimbr2;1988;Nichibutsu;Climbing / Building;2;0;double joystick,double joystick;good;1;raster;cclimbr2;;;
+vonj;Cyber Troopers Virtual-On (Japan, Revision B);mame;von;1995;Sega;Shooter / Versus;1;0;double joystick;preliminary;1;raster;von;;;4
+von;Cyber Troopers Virtual-On (USA, Revision B);mame;;1995;Sega;Shooter / Versus;1;0;double joystick;preliminary;1;raster;;;;4
+dankuga;Dan-Ku-Ga (Ver 0.0J 1994/12/13, prototype);mame;;1994;Taito Corporation;Fighter / Versus;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;;;;6
+dariusgu;Darius Gaiden - Silver Hawk (Ver 2.5A 1994/09/19);mame;dariusg;1994;Taito America Corporation;Shooter / Flying Horizontal;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;dariusg;;;4
+dariusgj;Darius Gaiden - Silver Hawk (Ver 2.5J 1994/09/19);mame;dariusg;1994;Taito Corporation;Shooter / Flying Horizontal;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;dariusg;;;4
+dariusg;Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19);mame;;1994;Taito Corporation Japan;Shooter / Flying Horizontal;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+dariusgx;Darius Gaiden - Silver Hawk Extra Version (Ver 2.7J 1995/03/06) (Official Hack);mame;;1994;Taito Corporation;Shooter / Flying Horizontal;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+darkplnt;Dark Planet;mame;;1982;Stern Electronics;Shooter / Field;1;180;dial;good;1;raster;;;;3
+deltrace;Delta Race;mame;omegrace;1981;bootleg (Allied Leisure);Shooter / Field;2;0;dial,dial;good;1;vector;omegrace;;;2
+demoderb;Demolition Derby;mame;;1984;Bally Midway;Driving / Demolition Derby;4;0;dial,dial,dial,dial;good;1;raster;;;;2
+demoderm;Demolition Derby (MCR-3 Mono Board Version);mame;demoderb;1984;Bally Midway;Driving / Demolition Derby;4;0;dial,dial,dial,dial;good;1;raster;demoderb;;;2
+demoderbc;Demolition Derby (cocktail);mame;demoderb;1984;Bally Midway;Driving / Demolition Derby;4;0;dial,dial,dial,dial;good;1;raster;demoderb;;;2
+dialog80;Dialogue 80;mame;;1980;Ampex;Computer / Business - Terminal;1;0;keyboard;preliminary;1;raster;;;;77
+dotrone;Discs of Tron (Environmental);mame;dotron;1983;Bally Midway;Sports / Misc.;1;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotrona;Discs of Tron (Upright alternate);mame;dotron;1983;Bally Midway;Sports / Misc.;1;0;joystick (8-way),dial,trackball;good;1;raster;dotron;;;4
+dotron;Discs of Tron (Upright);mame;;1983;Bally Midway;Sports / Misc.;1;0;joystick (8-way),dial,trackball;good;1;raster;;;;4
+dominob;Domino Block;mame;;1996;Wonwoo Systems;Ball & Paddle / Breakout;1;0;dial;good;1;raster;;;;2
+dominobv2;Domino Block ver.2;mame;dominob;1996;Wonwoo Systems;Ball & Paddle / Breakout;1;0;dial;good;1;raster;dominob;;;2
+dcheese;Double Cheese;mame;;1993;HAR;Casino / Misc.;1;90;dial;good;1;raster;;;;8
+draco;Draco;mame;;1981;Cidelsa;Shooter / Field;1;90;double joystick;imperfect;1;raster;;;;
+dragrace;Drag Race;mame;;1977;Atari (Kee Games);Driving / Race;2;0;dial,dial;good;1;raster;;;;6
+dribling;Dribbling;mame;;1983;Model Racing;Sports / Soccer;2;0;double joystick,double joystick;preliminary;1;raster;;;;2
+driblingo;Dribbling (Olympia);mame;dribling;1983;Model Racing (Olympia license);Sports / Soccer;2;0;double joystick,double joystick;preliminary;1;raster;dribling;;;2
+driblingbr;Dribbling (bootleg, Brazil);mame;dribling;1983;bootleg (Videomac);Sports / Soccer;2;0;double joystick,double joystick;preliminary;1;raster;dribling;;;2
+driftout;Drift Out (Europe);mame;;1991;Visco;Driving / Race;2;270;joystick (8-way),dial,dial;good;1;raster;;;;2
+driftoutj;Drift Out (Japan);mame;driftout;1991;Visco;Driving / Race;2;270;joystick (8-way),dial,dial;good;1;raster;driftout;;;2
+driveout;Drive Out (bootleg);mame;driftout;1991;bootleg;Driving / Race;2;270;joystick (8-way),dial,dial;good;1;raster;driftout;;;2
+dungeonmu;Dungeon Magic (Ver 2.1A 1994/02/18);mame;lightbr;1993;Taito America Corporation;Maze / Fighter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;lightbr;;;4
+dungeonm;Dungeon Magic (Ver 2.1O 1994/02/18);mame;lightbr;1993;Taito Corporation Japan;Maze / Fighter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;lightbr;;;4
+ecofghtra;Eco Fighters (Asia 931203);mame;ecofghtr;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ecofghtrh;Eco Fighters (Hispanic 931203);mame;ecofghtr;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ecofghtru1;Eco Fighters (USA 931203);mame;ecofghtr;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ecofghtru;Eco Fighters (USA 940215);mame;ecofghtr;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ecofghtrd;Eco Fighters (World 931203 Phoenix Edition) (bootleg);mame;ecofghtr;1993;bootleg;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ecofghtr;Eco Fighters (World 931203);mame;;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;3
+elvact2u;Elevator Action II (Ver 2.2A 1995/02/20);mame;elvactr;1994;Taito America Corporation;Platform / Shooter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;elvactr;;;4
+elvactrj;Elevator Action Returns (Ver 2.2J 1995/02/20);mame;elvactr;1994;Taito Corporation;Platform / Shooter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;elvactr;;;4
+elvactr;Elevator Action Returns (Ver 2.2O 1995/02/20);mame;;1994;Taito Corporation Japan;Platform / Shooter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+embargo;Embargo;mame;;1977;Cinematronics;Maze / Surround;4;0;dial,dial,dial,dial;preliminary;1;raster;;;;1
+enmadaio;Enma Daio (Japan);mame;;1993;Toaplan / Taito;Quiz / Questions in Japanese;1;0;dial;good;1;raster;;;;2
+exospace;Explorers of Space;mame;gnw_mmouse;1989;Elektronika;Handheld / Electronic Game;1;0;double joystick;good;1;svg;gnw_mmouse;;;
+exterm;Exterminator;mame;;1989;Gottlieb / Premier Technology;Shooter / 3rd Person;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+faceoff;Face Off (Japan 2 Players);mame;;1988;Namco;Sports / Hockey;2;180;double joystick,double joystick;good;1;raster;;;;2
+fsoccerj;Fighting Soccer (Japan);mame;fsoccer;1988;SNK;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;fsoccer;;;2
+fsoccer;Fighting Soccer (version 4);mame;;1988;SNK;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+firetrapbl;Fire Trap (Japan bootleg);mame;firetrap;1986;bootleg;Climbing / Building;2;90;double joystick,double joystick;good;1;raster;firetrap;;;1
+firetrapj;Fire Trap (Japan);mame;firetrap;1986;Wood Place Inc.;Climbing / Building;2;90;double joystick,double joystick;good;1;raster;firetrap;;;1
+firetrap;Fire Trap (US, set 1);mame;;1986;Wood Place Inc. (Data East USA license);Climbing / Building;2;90;double joystick,double joystick;good;1;raster;;;;1
+firetrapa;Fire Trap (US, set 2);mame;firetrap;1986;Wood Place Inc. (Data East USA license);Climbing / Building;2;90;double joystick,double joystick;good;1;raster;firetrap;;;1
+firetrk;Fire Truck / Smokey Joe;mame;;1978;Atari;Driving / FireTruck Guide;2;270;dial,dial;good;1;raster;;;;3
+forgottnua;Forgotten Worlds (USA, B-Board 88618B-2, Rev. A);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottnuaa;Forgotten Worlds (USA, B-Board 88618B-2, Rev. AA);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottnuc;Forgotten Worlds (USA, B-Board 88618B-2, Rev. C);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottnue;Forgotten Worlds (USA, B-Board 88618B-2, Rev. E);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottnu;Forgotten Worlds (USA, B-Board 88621B-2, Rev. C);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottna;Forgotten Worlds (World);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+forgottn;Forgotten Worlds (World, newer);mame;;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;1
+freekick;Free Kick (NS6201-A 1987.10);mame;;1987;Nihon System (Merit license);Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+freekicka;Free Kick (NS6201-A 1987.9);mame;freekick;1987;Nihon System;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;freekick;;;2
+freekickb1;Free Kick (bootleg set 1);mame;freekick;1987;bootleg;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;freekick;;;2
+freekickb2;Free Kick (bootleg set 2);mame;freekick;1987;bootleg;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;freekick;;;2
+freekickb3;Free Kick (bootleg set 3);mame;freekick;1987;bootleg;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;freekick;;;2
+frontlin;Front Line;mame;;1982;Taito Corporation;Shooter / Walking;2;270;double joystick,double joystick;good;1;raster;;;;2
+gchgchmp;Gachaga Champ (GE877 VER. JAB);mame;;1999;Konami;Multiplay / Mini-Games;2;0;double joystick,double joystick;imperfect;1;raster;sys573;;;
+gnw_egg;Game & Watch: Egg;mame;gnw_mmouse;1981;Nintendo;Handheld / Electronic Game;1;0;double joystick;good;1;svg;gnw_mmouse;;;
+gnw_mario;Game & Watch: Mario Bros.;mame;;1983;Nintendo;Handheld / Electronic Game;1;0;double joystick;good;2;svg;;;;
+gnw_mmouse;Game & Watch: Mickey Mouse;mame;;1981;Nintendo;Handheld / Electronic Game;1;0;double joystick;good;1;svg;;;;
+gekiridnj;Gekirindan (Ver 2.3J 1995/09/21);mame;gekiridn;1995;Taito Corporation;Shooter / Flying Vertical;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;gekiridn;;;4
+gekiridn;Gekirindan (Ver 2.3O 1995/09/21);mame;;1995;Taito Corporation;Shooter / Flying Vertical;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+ghoxj;Ghox (joystick);mame;ghox;1991;Toaplan;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ghox;;;2
+ghoxjo;Ghox (joystick, older);mame;ghox;1991;Toaplan;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ghox;;;2
+ghox;Ghox (spinner);mame;;1991;Toaplan;Ball & Paddle / Breakout;2;270;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+gigas;Gigas (MC-8123, 317-5002);mame;;1986;Sega;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;;;;2
+gigasb;Gigas (bootleg);mame;gigas;1986;bootleg;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;gigas;;;2
+gigasm2;Gigas Mark II (MC-8123, 317-5002);mame;;1986;Sega;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;;;;2
+gigasm2b;Gigas Mark II (bootleg);mame;gigasm2;1986;bootleg;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;gigasm2;;;2
+gblchmp;Global Champion (Ver 2.1A 1994/07/29);mame;kaiserkn;1994;Taito America Corporation;Fighter / Versus;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;kaiserkn;;;6
+goindolk;Goindol (Korea);mame;goindol;1987;SunA;Ball & Paddle / Breakout;2;90;joystick (8-way),dial,joystick (8-way);preliminary;1;raster;goindol;;;2
+goindolu;Goindol (US);mame;goindol;1987;SunA;Ball & Paddle / Breakout;2;90;joystick (8-way),dial,joystick (8-way);preliminary;1;raster;goindol;;;2
+goindol;Goindol (World);mame;;1987;SunA;Ball & Paddle / Breakout;2;90;joystick (8-way),dial,joystick (8-way);preliminary;1;raster;;;;2
+gtmr2u;Great 1000 Miles Rally 2 USA (95/05/18);mame;gtmr2;1995;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr2;;;8
+gtmre;Great 1000 Miles Rally: Evolution Model!!! (94/09/06);mame;gtmr;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;2
+gtmrusa;Great 1000 Miles Rally: U.S.A Version! (94/09/06);mame;gtmr;1994;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr;;;2
+gseekeru;Grid Seeker: Project Storm Hammer (Ver 1.3A);mame;gseeker;1992;Taito America Corporation;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;gseeker;;;4
+gseekerj;Grid Seeker: Project Storm Hammer (Ver 1.3J);mame;gseeker;1992;Taito Corporation;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;gseeker;;;4
+gseeker;Grid Seeker: Project Storm Hammer (Ver 1.3O);mame;;1992;Taito Corporation Japan;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+grudge;Grudge Match (v00.90, Italy, location test?);mame;;198?;Bally Midway;Driving / Race Track;3;0;dial,dial,dial;good;1;raster;;;;1
+gunlock;Gunlock (Ver 2.3O 1994/01/20);mame;;1993;Taito Corporation Japan;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+hr16;HR-16;mame;;1987;Alesis;Misc. / Drum Machine;1;0;dial,keyboard;preliminary;1;lcd;;;;48
+hr16b;HR-16B;mame;hr16;1989;Alesis;Misc. / Drum Machine;1;0;dial,keyboard;preliminary;1;lcd;hr16;;;48
+hthero93u;Hat Trick Hero '93 (Ver 1.0A 1993/02/28);mame;cupfinal;1993;Taito Corporation;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;cupfinal;;;4
+hthero93;Hat Trick Hero '93 (Ver 1.0J 1993/02/28);mame;cupfinal;1993;Taito Corporation;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;cupfinal;;;4
+hthero94;Hat Trick Hero '94 (Ver 2.2A 1994/05/26);mame;intcup94;1994;Taito America Corporation;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;intcup94;;;4
+hthero95u;Hat Trick Hero '95 (Ver 2.5A 1994/11/03);mame;pwrgoal;1994;Taito America Corporation;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pwrgoal;;;4
+hthero95;Hat Trick Hero '95 (Ver 2.5J 1994/11/03);mame;pwrgoal;1994;Taito Corporation;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pwrgoal;;;4
+hthero95a;Hat Trick Hero '95 (Ver 2.6Asia 1994/11/17);mame;pwrgoal;1994;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pwrgoal;;;4
+spinkick;Hec's Spinkick;mame;sfkick;1988;Haesung/Seojin;Ball & Paddle / Breakout;2;90;dial,only_buttons;good;1;raster;sfkick;;;1
+homo;Homo;mame;goindol;1987;bootleg;Ball & Paddle / Breakout;2;90;joystick (8-way),dial,joystick (8-way);good;1;raster;goindol;;;2
+icecold;Ice Cold Beer;mame;;1983;Taito;Electromechanical / Misc.;1;;double joystick;preliminary;0;;;;mechanical;
+turbobl;Indianapolis (bootleg of Turbo);mame;turbo;1981;bootleg;Driving / Race (chase view);1;270;dial;imperfect;1;raster;turbo;;;3
+idsoccer;Indoor Soccer (set 1);mame;;1985;Universal;Sports / Soccer;2;0;double joystick,double joystick;good;1;raster;;;;2
+idsoccera;Indoor Soccer (set 2);mame;idsoccer;1985;Universal;Sports / Soccer;2;0;double joystick,double joystick;imperfect;1;raster;idsoccer;;;2
+inferno;Inferno (Williams);mame;;1984;Williams;Maze / Shooter Small;2;0;double joystick,double joystick;good;1;raster;;;;1
+intcup94;International Cup '94 (Ver 2.2O 1994/05/26);mame;;1994;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+ixion;Ixion (prototype);mame;;1983;Sega;Shooter / Field;1;270;joystick (8-way),dial;imperfect;1;raster;;;;1
+joyfulr;Joyful Road (Japan);mame;;1983;SNK;Driving / Guide and Collect;2;270;double joystick,double joystick;good;1;raster;;;;
+sgmastj;Jumbo Ozaki Super Masters Golf (Japan, Floppy Based, FD1094 317-0058-05b);mame;sgmast;1989;Sega;Sports / Golf;2;0;joystick (8-way),joystick (8-way),dial;imperfect;1;raster;sgmast;;;4
+jpopnics;Jumping Pop (Nics, Korean hack of Plump Pop);mame;;1992;Nics;Ball & Paddle / Jump and Touch;2;0;dial,dial;imperfect;1;raster;;;;2
+kaiserknj;Kaiser Knuckle (Ver 2.1J 1994/07/29);mame;kaiserkn;1994;Taito Corporation;Fighter / Versus;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;kaiserkn;;;6
+kaiserkn;Kaiser Knuckle (Ver 2.1O 1994/07/29);mame;;1994;Taito Corporation Japan;Fighter / Versus;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;;;;6
+kchampvs;Karate Champ (US VS version, set 1);mame;kchamp;1984;Data East USA;Fighter / Versus;2;90;double joystick,double joystick;good;1;raster;kchamp;;;
+kchampvs2;Karate Champ (US VS version, set 2);mame;kchamp;1984;Data East USA;Fighter / Versus;2;90;double joystick,double joystick;good;1;raster;kchamp;;;
+kchamp;Karate Champ (US);mame;;1984;Data East USA;Fighter / Versus;2;90;double joystick,double joystick;good;1;raster;;;;
+karatedo;Karate Dou (Japan);mame;kchamp;1984;Data East Corporation;Fighter / Versus;2;90;double joystick,double joystick;good;1;raster;kchamp;;;
+kickc;Kick (cocktail);mame;kick;1981;Midway;Ball & Paddle / Jump and Touch;2;90;dial,dial;good;1;raster;kick;;;1
+kick;Kick (upright);mame;;1981;Midway;Ball & Paddle / Jump and Touch;1;90;dial;good;1;raster;;;;1
+kickman;Kickman (upright);mame;kick;1981;Midway;Ball & Paddle / Jump and Touch;1;90;dial;good;1;raster;kick;;;1
+kirameki;Kirameki Star Road (Ver 2.10J 1997/08/29);mame;;1997;Taito Corporation;Quiz / Questions in Japanese;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+kngtmare;Knightmare (prototype);mame;;1983;Gottlieb;Maze / Fighter;1;0;double joystick;preliminary;1;raster;;;;2
+kroozr;Kozmik Kroozr;mame;;1982;Bally Midway;Shooter / Field;1;0;joystick (analog),dial;good;1;raster;;;;2
+krull;Krull;mame;;1983;Gottlieb;Shooter / Field;1;270;double joystick;good;1;raster;;;;
+ktiger2;Kyukyoku Tiger II (Ver 2.1J 1995/11/30);mame;tcobra2;1995;Taito Corporation;Shooter / Flying Vertical;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;tcobra2;;;4
+landmakr;Land Maker (Ver 2.01J 1998/06/01);mame;;1998;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+landmakrp;Land Maker (Ver 2.02O 1998/06/02, prototype);mame;landmakr;1998;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;landmakr;;;4
+liblrabl;Libble Rabble;mame;;1983;Namco;Puzzle / Outline;2;0;double joystick,double joystick;good;1;raster;;;;1
+lightbrj;Light Bringer (Ver 2.1J 1994/02/18);mame;lightbr;1993;Taito Corporation;Maze / Fighter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;lightbr;;;4
+lightbr;Light Bringer (Ver 2.2O 1994/04/08);mame;;1993;Taito Corporation Japan;Maze / Fighter;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+losttomb;Lost Tomb (easy);mame;;1982;Stern Electronics;Maze / Shooter Small;1;90;double joystick;good;1;raster;;;;1
+losttombh;Lost Tomb (hard);mame;losttomb;1982;Stern Electronics;Maze / Shooter Small;1;90;double joystick;good;1;raster;losttomb;;;1
+lostwrldo;Lost Worlds (Japan Old Ver.);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+lostwrld;Lost Worlds (Japan);mame;forgottn;1988;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;forgottn;;;1
+tmchammer;MC Hammer: U Can't Touch This (handheld);mame;;1991;Tiger Electronics;Handheld / Electronic Game;1;0;double joystick;good;1;svg;;;;
+mt32;MT32;mame;;1987;Roland;Music / Synthesizer;1;0;dial;preliminary;1;lcd;;;;
+mplanets;Mad Planets;mame;;1983;Gottlieb;Shooter / Field;1;270;joystick (8-way),dial;good;1;raster;;;;2
+mplanetsuk;Mad Planets (UK);mame;mplanets;1983;Gottlieb (Taitel license);Shooter / Field;1;270;joystick (8-way),dial;good;1;raster;mplanets;;;2
+jongbou;Mahjong Block Jongbou (Japan);mame;;1987;SNK;Ball & Paddle / Breakout * Mature *;2;90;dial,dial;good;1;raster;;;;1
+mjdialq2;Mahjong Dial Q2 (Japan);mame;;1991;Dynax;Tabletop / Mahjong * Mature *;2;180;mahjong,mahjong;good;1;raster;;;;21
+mjdialq2a;Mahjong Dial Q2 (Japan, alt.);mame;mjdialq2;1991;Dynax;Tabletop / Mahjong * Mature *;2;180;mahjong,mahjong;good;1;raster;mjdialq2;;;21
+mainsnk;Main Event (1984);mame;;1984;SNK;Sports / Boxing;2;180;double joystick,double joystick;good;1;raster;;;;4
+mhavocp;Major Havoc (prototype);mame;mhavoc;1983;Atari;Shooter / Misc.;2;0;dial,only_buttons;good;1;vector;mhavoc;;;2
+mhavoc2;Major Havoc (rev 2);mame;mhavoc;1983;Atari;Shooter / Misc.;2;0;dial,only_buttons;good;1;vector;mhavoc;;;2
+mhavoc;Major Havoc (rev 3);mame;;1983;Atari;Shooter / Misc.;2;0;dial,only_buttons;good;1;vector;;;;2
+mhavocrv;Major Havoc - Return to Vax;mame;mhavoc;2006;hack (JMA);Shooter / Misc.;2;0;dial,only_buttons;good;1;vector;mhavoc;;;2
+mars;Mars;mame;;1981;Artic;Shooter / Flying Horizontal;2;90;double joystick,double joystick;good;1;raster;;;;
+mondial2;Mephisto Mondial II;mame;;1987;Hegener & Glaser;Board Game / Chess Machine;1;;keypad;good;0;;;;;16
+smondial;Mephisto Super Mondial;mame;;1986;Hegener & Glaser;Board Game / Chess Machine;1;;keypad;good;0;;;;;16
+smondial2;Mephisto Super Mondial II;mame;;1989;Hegener & Glaser;Board Game / Chess Machine;1;;keypad;good;0;;;;;16
+gtmr2a;Mille Miglia 2: Great 1000 Miles Rally (95/04/04);mame;gtmr2;1995;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;gtmr2;;;8
+gtmr2;Mille Miglia 2: Great 1000 Miles Rally (95/05/24);mame;;1995;Kaneko;Driving / Race;2;0;joystick (8-way),dial,paddle,joystick (8-way);good;1;raster;;;;8
+minefld;Minefield;mame;;1983;Stern Electronics;Shooter / Driving Horizontal;1;90;double joystick;good;1;raster;;;;1
+minefldfe;Minefield (The Logicshop, bootleg);mame;minefld;1983;bootleg (The Logicshop);Shooter / Driving Horizontal;1;90;double joystick;good;1;raster;minefld;;;1
+montecar;Monte Carlo;mame;;1979;Atari;Driving / Race;1;270;dial;good;1;raster;;;;6
+moonwarp;Moon War (prototype on Frenzy hardware);mame;;1981;Stern Electronics;Shooter / Flying;2;0;dial,dial;good;1;raster;;;;4
+moonwar;Moonwar;mame;;1981;Stern Electronics;Shooter / Flying;2;90;dial,dial;good;1;raster;;;;4
+moonwara;Moonwar (older);mame;moonwar;1981;Stern Electronics;Shooter / Flying;2;90;dial,dial;good;1;raster;moonwar;;;4
+quizhuhu;Moriguchi Hiroko no Quiz de Hyuu!Hyuu! (Ver 2.2J 1995/05/25);mame;;1995;Taito Corporation;Quiz / Questions in Japanese;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);preliminary;1;raster;;;;4
+mnchmobl;Munch Mobile (US);mame;joyfulr;1983;SNK (Centuri license);Driving / Guide and Collect;2;270;double joystick,double joystick;good;1;raster;joyfulr;;;
+mundial;Mundial 90;mame;;1990;Inder;Electromechanical / Pinball;1;;;preliminary;0;;;;mechanical;
+nitedrvr;Night Driver;mame;;1976;Atari;Driving / 1st Person;1;0;dial;imperfect;1;raster;;;;8
+nstocker;Night Stocker (10/6/86);mame;;1986;Bally/Sente;Shooter / Driving 1st Person;2;0;lightgun,dial;good;1;raster;;;;1
+nstocker2;Night Stocker (8/27/86);mame;nstocker;1986;Bally/Sente;Shooter / Driving 1st Person;2;0;lightgun,dial;good;1;raster;nstocker;;;1
+nupogodi;Nu, pogodi!;mame;gnw_mmouse;1984;Elektronika;Handheld / Electronic Game;1;0;double joystick;good;1;svg;gnw_mmouse;;;
+offtwallc;Off the Wall (2-player cocktail);mame;offtwall;1991;Atari Games;Ball & Paddle / Breakout;3;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;offtwall;;;4
+offtwall;Off the Wall (2/3-player upright);mame;;1991;Atari Games;Ball & Paddle / Breakout;3;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;4
+otwalls;Off the Wall (Sente);mame;;1984;Bally/Sente;Sports / Tennis;2;0;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;;;;
+oigas;Oigas (bootleg);mame;gigas;1986;bootleg;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;gigas;;;2
+omega;Omega;mame;;1986;Nihon System;Ball & Paddle / Breakout;2;270;dial,dial;good;1;raster;;;;2
+omegrace;Omega Race (set 1);mame;;1981;Midway;Shooter / Field;2;0;dial,dial;good;1;vector;;;;2
+omegrace2;Omega Race (set 2);mame;omegrace;1981;Midway;Shooter / Field;2;0;dial,dial;good;1;vector;omegrace;;;2
+onyx;Onyx (Brazil/Prototype);mame;coleco;1982;Microdigital;Game Console / Home Videogame;2;0;joystick (8-way),dial,trackball,keypad,joystick (8-way),dial,only_buttons;good;1;raster;coleco;;;1
+paddle2;Paddle 2 (bootleg on Block hardware);mame;arkanoid;1988;bootleg;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;arkanoid;;;1
+patapata;Pata Pata Panic;mame;;1993;Atlus;Misc. / Redemption;1;0;double joystick;good;1;raster;;;;
+pegglet;Peggle (Trackball, v1.0);mame;peggle;1991;Strata/Incredible Technologies;Ball & Paddle / Jump and Touch;1;90;dial;good;1;raster;peggle;;;
+piratesh;Pirate Ship (ver UAA);mame;;1995;Konami;Misc. / Redemption;1;90;joystick (vertical2-way),dial;imperfect;1;raster;;;;3
+plumppop;Plump Pop (Japan);mame;;1987;Taito Corporation;Ball & Paddle / Jump and Touch;2;0;dial,dial;good;1;raster;;;;2
+plygonet;Polygonet Commanders (ver UAA);mame;;1993;Konami;Shooter / Driving 1st Person;1;90;double joystick;preliminary;1;raster;;;;2
+popbounc;Pop 'n Bounce / Gapporin;mame;;1997;Video System Co.;Ball & Paddle / Breakout;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;neogeo;;;3
+popnpopu;Pop'n Pop (Ver 2.07A 1998/02/09);mame;popnpop;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;popnpop;;;4
+popnpopj;Pop'n Pop (Ver 2.07J 1998/02/09);mame;popnpop;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;popnpop;;;4
+popnpop;Pop'n Pop (Ver 2.07O 1998/02/09);mame;;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+prmtmfgt;Prime Time Fighter (Ver 2.1A 1993/05/21) (New Version);mame;trstar;1993;Taito America Corporation;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;trstar;;;4
+prmtmfgto;Prime Time Fighter (Ver 2.1A 1993/05/21) (Old Version);mame;trstar;1993;Taito America Corporation;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;trstar;;;4
+puchicarj;Puchi Carat (Ver 2.02J 1997/10/29);mame;puchicar;1997;Taito Corporation;Ball & Paddle / Breakout;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;puchicar;;;4
+puchicar;Puchi Carat (Ver 2.02O 1997/10/29);mame;;1997;Taito Corporation;Ball & Paddle / Breakout;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+puzzloopa;Puzz Loop (Asia);mame;puzzloop;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;puzzloop;;;2
+puzzloope;Puzz Loop (Europe, v0.93);mame;puzzloop;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;puzzloop;;;2
+puzzloop;Puzz Loop (Europe, v0.94);mame;;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;skns;;;2
+puzzloopj;Puzz Loop (Japan);mame;puzzloop;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;puzzloop;;;2
+puzzloopk;Puzz Loop (Korea);mame;puzzloop;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;puzzloop;;;2
+puzzloopu;Puzz Loop (USA);mame;puzzloop;1998;Mitchell;Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;puzzloop;;;2
+pzloop2;Puzz Loop 2 (Euro 010302);mame;;2001;Mitchell (Capcom license);Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;1
+pzloop2jr1;Puzz Loop 2 (Japan 010205);mame;pzloop2;2001;Mitchell (Capcom license);Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;pzloop2;;;1
+pzloop2j;Puzz Loop 2 (Japan 010226);mame;pzloop2;2001;Mitchell (Capcom license);Puzzle / Toss;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;pzloop2;;;1
+pbobble2j;Puzzle Bobble 2 (Ver 2.2J 1995/07/20);mame;pbobble2;1995;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble2;;;4
+pbobble2o;Puzzle Bobble 2 (Ver 2.2O 1995/07/20);mame;pbobble2;1995;Taito Corporation Japan;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble2;;;4
+pbobble2;Puzzle Bobble 2 (Ver 2.3O 1995/07/31);mame;;1995;Taito Corporation Japan;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+pbobble2x;Puzzle Bobble 2X (Ver 2.2J 1995/11/11);mame;pbobble2;1995;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble2;;;4
+pbobble3u;Puzzle Bobble 3 (Ver 2.1A 1996/09/27);mame;pbobble3;1996;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble3;;;4
+pbobble3j;Puzzle Bobble 3 (Ver 2.1J 1996/09/27);mame;pbobble3;1996;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble3;;;4
+pbobble3;Puzzle Bobble 3 (Ver 2.1O 1996/09/27);mame;;1996;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+pbobble4u;Puzzle Bobble 4 (Ver 2.04A 1997/12/19);mame;pbobble4;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble4;;;4
+pbobble4j;Puzzle Bobble 4 (Ver 2.04J 1997/12/19);mame;pbobble4;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;pbobble4;;;4
+pbobble4;Puzzle Bobble 4 (Ver 2.04O 1997/12/19);mame;;1997;Taito Corporation;Puzzle / Toss;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+qb3;QB-3 (prototype);mame;;1982;Rock-Ola;Shooter / Field;1;180;double joystick;imperfect;1;vector;;;;4
+quester;Quester (Japan);mame;;1987;Namco;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;;;;1
+questers;Quester Special Edition (Japan);mame;quester;1987;Namco;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;quester;;;1
+qtheater;Quiz Theater - 3tsu no Monogatari (Ver 2.3J 1994/11/10);mame;;1994;Taito Corporation;Quiz / Questions in Japanese;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+racingbj;Racing Beat (Japan);mame;racingb;1991;Taito Corporation;Driving / Race (chase view);1;0;dial,paddle;imperfect;1;raster;racingb;;;4
+racingb;Racing Beat (World);mame;;1991;Taito Corporation Japan;Driving / Race (chase view);1;0;dial,paddle;imperfect;1;raster;;;;4
+rayforce;Ray Force (Ver 2.3A 1994/01/20);mame;gunlock;1993;Taito America Corporation;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;gunlock;;;4
+rayforcej;Ray Force (Ver 2.3J 1994/01/20);mame;gunlock;1993;Taito Corporation;Shooter / Flying Vertical;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;gunlock;;;4
+razmataz;Razzmatazz;mame;;1983;Sega;Shooter / Gallery;2;90;dial,dial;imperfect;1;raster;;;;1
+recalh;Recalhorn (Ver 1.42J 1994/5/11, prototype);mame;;1994;Taito Corporation;Platform / Run, Jump & Scrolling;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+rescue;Rescue;mame;;1982;Stern Electronics;Shooter / Flying;1;90;double joystick;good;1;raster;;;;1
+rescuefe;Rescue (Free Enterprise Games, bootleg);mame;rescue;1982;bootleg (Free Enterprise Games);Shooter / Flying;1;90;double joystick;preliminary;1;raster;rescue;;;1
+rescraid;Rescue Raider (5/11/87) (non-cartridge);mame;;1987;Bally Midway;Shooter / Driving;1;0;double joystick;good;1;raster;;;;1
+rescraida;Rescue Raider (stand-alone);mame;rescraid;1987;Bally Midway;Shooter / Driving;1;0;double joystick;good;1;raster;rescraid;;;1
+ridleofp;Riddle of Pythagoras (Japan);mame;;1986;Sega / Nasco;Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;;;;2
+ridingfu;Riding Fight (Ver 1.0A);mame;ridingf;1992;Taito America Corporation;Fighter / Vertical;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;ridingf;;;4
+ridingfj;Riding Fight (Ver 1.0J);mame;ridingf;1992;Taito Corporation;Fighter / Vertical;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;ridingf;;;4
+ridingf;Riding Fight (Ver 1.0O);mame;;1992;Taito Corporation Japan;Fighter / Vertical;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+ringrageu;Ring Rage (Ver 2.3A 1992/08/09);mame;ringrage;1992;Taito America Corporation;Sports / Wrestling;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;ringrage;;;4
+ringragej;Ring Rage (Ver 2.3J 1992/08/09);mame;ringrage;1992;Taito Corporation;Sports / Wrestling;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;ringrage;;;4
+ringrage;Ring Rage (Ver 2.3O 1992/08/09);mame;;1992;Taito Corporation Japan;Sports / Wrestling;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+robotron87;Robotron: 2084 (1987 'shot-in-the-corner' bugfix);mame;robotron;1987;hack;Shooter / Field;1;0;double joystick;good;1;raster;robotron;;;
+robotron12;Robotron: 2084 (2012 'wave 201 start' hack);mame;robotron;2012;hack;Shooter / Field;1;0;double joystick;good;1;raster;robotron;;;
+robotrontd;Robotron: 2084 (2015 'tie-die V2' hack);mame;robotron;2015;hack;Shooter / Field;1;0;double joystick;good;1;raster;robotron;;;
+robotron;Robotron: 2084 (Solid Blue label);mame;;1982;Williams / Vid Kidz;Shooter / Field;1;0;double joystick;good;1;raster;;;;
+robotronyo;Robotron: 2084 (Yellow/Orange label);mame;robotron;1982;Williams / Vid Kidz;Shooter / Field;1;0;double joystick;good;1;raster;robotron;;;
+rockclim;Rock Climber;mame;;1981;Taito;Climbing / Mountain - Wall;2;180;double joystick,double joystick;good;1;raster;;;;
+roughrac;Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b);mame;;1990;Sega;Driving / Race Track;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;3
+sarge;Sarge;mame;;1985;Bally Midway;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;;;;2
+sarukani;Saru-Kani-Hamu-Zou (Japan);mame;vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+screwloo;Screw Loose (prototype);mame;;1983;Mylstar;Shooter / Field;1;0;double joystick;good;1;raster;;;;2
+scudhamm;Scud Hammer;mame;;1994;Jaleco;Fighter / Misc.;1;270;dial;imperfect;1;raster;;;;4
+sheriff;Sheriff;mame;;1979;Nintendo;Shooter / Field;2;270;double joystick,double joystick;good;1;raster;;;;1
+smashtv3;Smash T.V. (rev 3.01);mame;smashtv;1990;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;smashtv;;;
+smashtv4;Smash T.V. (rev 4.00);mame;smashtv;1990;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;smashtv;;;
+smashtv5;Smash T.V. (rev 5.00);mame;smashtv;1990;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;smashtv;;;
+smashtv6;Smash T.V. (rev 6.00);mame;smashtv;1990;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;smashtv;;;
+smashtv;Smash T.V. (rev 8.00);mame;;1990;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;;;;
+sdungeon;Space Dungeon;mame;;1981;Taito America Corporation;Shooter / Field;2;270;double joystick,double joystick;good;1;raster;;;;
+sdungeona;Space Dungeon (larger roms);mame;sdungeon;1981;Taito America Corporation;Shooter / Field;2;270;double joystick,double joystick;good;1;raster;sdungeon;;;
+spcinv95u;Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5A 1995/06/14);mame;spcinv95;1995;Taito America Corporation;Shooter / Gallery;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;spcinv95;;;4
+spcinv95;Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14);mame;;1995;Taito Corporation Japan;Shooter / Gallery;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+spcinvdj;Space Invaders DX (Ver 2.6J 1994/09/14) (F3 Version);mame;spacedx;1994;Taito Corporation;Shooter / Gallery;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;spacedx;;;4
+speedfrk;Speed Freak;mame;;1979;Vectorbeam;Driving / 1st Person;2;180;dial,joystick (8-way);preliminary;1;vector;;;;1
+splat;Splat!;mame;;1982;Williams;Shooter / Field;2;0;double joystick,double joystick;good;1;raster;;;;
+sprint1;Sprint 1;mame;;1978;Atari (Kee Games);Driving / Race Track;1;0;dial;good;1;raster;;;;5
+sprint2h;Sprint 2 (color kit, Italy);mame;sprint1;1976;hack;Driving / Race Track;2;0;dial,dial;preliminary;1;raster;sprint1;;;6
+sprint2;Sprint 2 (set 1);mame;sprint1;1976;Atari (Kee Games);Driving / Race Track;2;0;dial,dial;good;1;raster;sprint1;;;6
+sprint2a;Sprint 2 (set 2);mame;sprint1;1976;Atari (Kee Games);Driving / Race Track;2;0;dial,dial;good;1;raster;sprint1;;;6
+sprint4;Sprint 4 (set 1);mame;;1977;Atari;Driving / Race Track;4;180;dial,dial,dial,dial;good;1;raster;;;;6
+sprint4a;Sprint 4 (set 2);mame;sprint4;1977;Atari;Driving / Race Track;4;180;dial,dial,dial,dial;good;1;raster;sprint4;;;6
+sprint8;Sprint 8;mame;;1977;Atari;Driving / Race Track;8;0;dial,dial,dial,dial,dial,dial,dial,dial;good;1;raster;;;;3
+sprint8a;Sprint 8 (play tag & chase);mame;sprint8;1977;Atari;Driving / Race Track;8;0;dial,dial,dial,dial,dial,dial,dial,dial;good;1;raster;sprint8;;;2
+squaitsa;Squash (Itisa);mame;;1984;Itisa;Sports / Tennis;2;0;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;;;;1
+stargrds;Star Guards;mame;;1987;Bally Midway;Shooter / Field;3;0;double joystick,double joystick,double joystick;good;1;raster;;;;
+startrek;Star Trek;mame;;1982;Sega;Shooter / Flying 1st Person;1;180;dial;imperfect;1;vector;;;;4
+stocker;Stocker (3/19/85);mame;;1984;Bally/Sente;Driving / Race;1;0;dial;good;1;raster;;;;1
+strtheat;Street Heat;mame;;1985;Epos Corporation;Shooter / Driving (chase view);2;270;joystick (2-way),dial,joystick (2-way),dial;good;1;raster;;;;3
+subs;Subs;mame;;1977;Atari;Shooter / Field;2;0;dial,dial;imperfect;2;raster;;;;1
+superbug;Super Bug;mame;;1977;Atari (Kee Games);Driving / Race;1;270;dial;good;1;raster;;;;6
+suprgolfj;Super Crowns Golf (Japan);mame;suprgolf;1989;Nasco;Sports / Golf;2;0;joystick (2-way),dial,joystick (2-way),dial;imperfect;1;raster;suprgolf;;;4
+suprgolf;Super Crowns Golf (World);mame;;1989;Nasco;Sports / Golf;2;0;joystick (2-way),dial,joystick (2-way),dial;imperfect;1;raster;;;;4
+scfinalso;Super Cup Finals (Ver 2.1O 1993/11/19);mame;scfinals;1993;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;scfinals;;;4
+scfinals;Super Cup Finals (Ver 2.2O 1994/01/13);mame;;1993;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+sfkick;Super Free Kick (set 1);mame;;1988;Haesung/HJ Corp;Ball & Paddle / Breakout;2;90;dial,only_buttons;good;1;raster;;;;1
+sfkicka;Super Free Kick (set 2);mame;sfkick;198?;Haesung;Ball & Paddle / Breakout;2;90;dial,only_buttons;good;1;raster;sfkick;;;1
+tacscan;Tac/Scan;mame;;1982;Sega;Shooter / Flying Vertical;1;270;dial;imperfect;1;vector;;;;2
+karatevs;Taisen Karate Dou (Japan VS version);mame;kchamp;1984;Data East Corporation;Fighter / Versus;2;90;double joystick,double joystick;good;1;raster;kchamp;;;
+cupfinal;Taito Cup Finals (Ver 1.0O 1993/02/28);mame;;1993;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+pwrgoal;Taito Power Goal (Ver 2.5O 1994/11/03);mame;;1994;Taito Corporation Japan;Sports / Soccer;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+tank8;Tank 8 (set 1);mame;;1976;Atari (Kee Games);Maze / Shooter Small;8;0;double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick;good;1;raster;;;;1
+tank8a;Tank 8 (set 2);mame;tank8;1976;Atari (Kee Games);Maze / Shooter Small;8;0;double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick;preliminary;1;raster;tank8;;;1
+tank8b;Tank 8 (set 3);mame;tank8;1976;Atari (Kee Games);Maze / Shooter Small;8;0;double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick;preliminary;1;raster;tank8;;;1
+tank8c;Tank 8 (set 4);mame;tank8;1976;Atari (Kee Games);Maze / Shooter Small;8;0;double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick;preliminary;1;raster;tank8;;;1
+tank8d;Tank 8 (set 5);mame;tank8;1976;Atari (Kee Games);Maze / Shooter Small;8;0;double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick,double joystick;preliminary;1;raster;tank8;;;1
+tankbatl;Tank Battle (prototype rev. 4/21/92);mame;;1992;Microprose Games Inc.;Shooter / 1st Person;2;0;double joystick,double joystick;imperfect;1;raster;;;;1
+teetert;Teeter Torture (prototype);mame;;1982;Exidy;Shooter / Gallery;1;0;dial;good;1;raster;;;;1
+tempest1;Tempest (rev 1);mame;tempest;1980;Atari;Shooter / Gallery;2;270;dial,dial;good;1;vector;tempest;;;2
+tempest1r;Tempest (rev 1, Revised Hardware);mame;tempest;1980;Atari;Shooter / Gallery;2;270;dial,dial;good;1;vector;tempest;;;2
+tempest2;Tempest (rev 2);mame;tempest;1980;Atari;Shooter / Gallery;2;270;dial,dial;good;1;vector;tempest;;;2
+tempest3;Tempest (rev 3);mame;tempest;1980;Atari;Shooter / Gallery;2;270;dial,dial;good;1;vector;tempest;;;2
+tempest;Tempest (rev 3, Revised Hardware);mame;;1980;Atari;Shooter / Gallery;2;270;dial,dial;good;1;vector;;;;2
+temptube;Tempest Tubes;mame;tempest;1980;hack (Duncan Brown);Shooter / Gallery;2;270;dial,dial;good;1;vector;tempest;;;2
+laststar;The Last Starfighter (prototype);mame;;1984;Atari Games;Shooter / Flying 1st Person;1;0;double joystick,joystick (analog);imperfect;1;raster;;;;6
+roishtar;The Return of Ishtar;mame;;1986;Namco;Maze / Fighter;1;0;double joystick;good;1;raster;;;;2
+tinstar;The Tin Star (set 1);mame;;1983;Taito Corporation;Shooter / 3rd Person;2;0;double joystick,double joystick;good;1;raster;;;;2
+tinstar2;The Tin Star (set 2);mame;tinstar;1983;Taito Corporation;Shooter / 3rd Person;2;0;double joystick,double joystick;good;1;raster;tinstar;;;2
+titlefj;Title Fight (Japan);mame;titlef;1992;Sega;Sports / Boxing;2;0;double joystick,double joystick;imperfect;2;raster;titlef;;;
+titlefu;Title Fight (US);mame;titlef;1992;Sega;Sports / Boxing;2;0;double joystick,double joystick;imperfect;2;raster;titlef;;;
+titlef;Title Fight (World);mame;;1992;Sega;Sports / Boxing;2;0;double joystick,double joystick;imperfect;2;raster;;;;
+trstarj;Top Ranking Stars (Ver 2.1J 1993/05/21) (New Version);mame;trstar;1993;Taito Corporation;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;trstar;;;4
+trstaroj;Top Ranking Stars (Ver 2.1J 1993/05/21) (Old Version);mame;trstar;1993;Taito Corporation;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;trstar;;;4
+trstar;Top Ranking Stars (Ver 2.1O 1993/05/21) (New Version);mame;;1993;Taito Corporation Japan;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+trstaro;Top Ranking Stars (Ver 2.1O 1993/05/21) (Old Version);mame;trstar;1993;Taito Corporation Japan;Sports / Boxing;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;trstar;;;4
+topsecex;Top Secret (Exidy) (version 1.0);mame;;1986;Exidy;Shooter / Driving;1;0;dial;good;1;raster;;;;8
+totcarnp;Total Carnage (prototype, rev 1.0 01/25/92);mame;totcarn;1992;Midway;Shooter / Walking;2;0;double joystick,double joystick;good;1;raster;totcarn;;;
+totcarn;Total Carnage (rev LA1 03/10/92);mame;;1992;Midway;Shooter / Walking;2;0;double joystick,double joystick;good;1;raster;;;;
+tc4;Total Control 4;mame;;1981;Coleco;Handheld / Electronic Game;2;;double joystick,double joystick;good;0;;;;;4
+tdfeverj;TouchDown Fever (Japan);mame;tdfever;1987;SNK;Sports / Football;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;tdfever;;;2
+tdfever;TouchDown Fever (US);mame;;1987;SNK;Sports / Football;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2
+tdfever2;TouchDown Fever 2;mame;tdfever;1988;SNK;Sports / Football;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;tdfever;;;2
+tdfever2b;TouchDown Fever 2 (bootleg);mame;tdfever;1988;bootleg;Sports / Football;4;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;tdfever;;;2
+arkatour;Tournament Arkanoid (US);mame;;1987;Taito America Corporation (Romstar license);Ball & Paddle / Breakout;2;90;dial,dial;good;1;raster;;;;1
+tron4;Tron (6/15);mame;tron;1982;Bally Midway;Multiplay / Mini-Games;1;90;joystick (8-way),dial;good;1;raster;tron;;;1
+tron3;Tron (6/17);mame;tron;1982;Bally Midway;Multiplay / Mini-Games;1;90;joystick (8-way),dial;good;1;raster;tron;;;1
+tron2;Tron (6/25);mame;tron;1982;Bally Midway;Multiplay / Mini-Games;2;90;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;tron;;;1
+tron;Tron (8/9);mame;;1982;Bally Midway;Multiplay / Mini-Games;2;90;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;1
+tronger;Tron (Germany);mame;tron;1982;Bally Midway;Multiplay / Mini-Games;1;90;joystick (8-way),dial;good;1;raster;tron;;;1
+rescueb;Tuono Blu (bootleg of Rescue);mame;rescue;1982;bootleg (Videl Games);Shooter / Flying;1;90;double joystick;good;1;raster;rescue;;;1
+turboa;Turbo (encrypted, program 1262-1264);mame;turbo;1981;Sega;Driving / Race (chase view);1;270;dial;imperfect;1;raster;turbo;;;3
+turboc;Turbo (encrypted, program 1363-1365 rev A);mame;turbo;1981;Sega;Driving / Race (chase view);1;270;dial;imperfect;1;raster;turbo;;;3
+turbob;Turbo (encrypted, program 1363-1365 rev B);mame;turbo;1981;Sega;Driving / Race (chase view);1;270;dial;imperfect;1;raster;turbo;;;3
+turbod;Turbo (encrypted, program 1363-1365);mame;turbo;1981;Sega;Driving / Race (chase view);1;270;dial;imperfect;1;raster;turbo;;;3
+turbo;Turbo (program 1513-1515);mame;;1981;Sega;Driving / Race (chase view);1;270;dial;imperfect;1;raster;;;;3
+tutankhm;Tutankham;mame;;1982;Konami;Maze / Shooter Large;2;90;double joystick,double joystick;imperfect;1;raster;;;;2
+tutankhms;Tutankham (Stern Electronics);mame;tutankhm;1982;Konami (Stern Electronics license);Maze / Shooter Large;2;90;double joystick,double joystick;imperfect;1;raster;tutankhm;;;2
+tcobra2u;Twin Cobra II (Ver 2.1A 1995/11/30);mame;tcobra2;1995;Taito America Corporation;Shooter / Flying Vertical;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;tcobra2;;;4
+tcobra2;Twin Cobra II (Ver 2.1O 1995/11/30);mame;;1995;Taito Corporation Japan;Shooter / Flying Vertical;4;270;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+twinqix;Twin Qix (Ver 1.0A 1995/01/17, prototype);mame;;1995;Taito America Corporation;Puzzle / Outline;4;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4
+twinsqua;Twin Squash;mame;;1991;Sega;Ball & Paddle / Breakout;2;0;dial,dial;good;1;raster;;;;1
+2mindril;Two Minute Drill;mame;;1993;Taito;Electromechanical / Misc.;1;0;dial;preliminary;1;raster;;;mechanical;4
+twotigerc;Two Tigers (Tron conversion);mame;twotiger;1984;Bally Midway;Shooter / Field;2;0;dial,dial;good;1;raster;twotiger;;;2
+uecology;Ultimate Ecology (Japan 931203);mame;ecofghtr;1993;Capcom;Shooter / Flying Horizontal;2;0;joystick (8-way),dial,joystick (8-way),dial;good;1;raster;ecofghtr;;;3
+ultratnk;Ultra Tank;mame;;1978;Atari (Kee Games);Shooter / Versus;2;0;double joystick,double joystick;good;1;raster;;;;1
+vblokbrka;VS Block Breaker (Asia);mame;vblokbrk;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;vblokbrk;;;3
+vblokbrk;VS Block Breaker (Europe);mame;;1997;Kaneko / Mediaworks;Ball & Paddle / Breakout;2;0;joystick (8-way),dial,joystick (8-way),dial;imperfect;1;raster;skns;;;3
+victorba;Victor Banana;mame;victory;1982;Exidy;Shooter / Field;1;0;dial;good;1;raster;victory;;;4
+victory;Victory;mame;;1982;Exidy;Shooter / Field;1;0;dial;good;1;raster;;;;4
+vindictre3;Vindicators (Europe, rev 3);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictre4;Vindicators (Europe, rev 4);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictre;Vindicators (Europe, rev 5);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictrg;Vindicators (German, rev 1);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictr1;Vindicators (rev 1);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictr2;Vindicators (rev 2);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictr4;Vindicators (rev 4);mame;vindictr;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindictr;;;4
+vindictr;Vindicators (rev 5);mame;;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;;;;4
+vindctr2r1;Vindicators Part II (rev 1);mame;vindctr2;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindctr2;;;4
+vindctr2r2;Vindicators Part II (rev 2);mame;vindctr2;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;vindctr2;;;4
+vindctr2;Vindicators Part II (rev 3);mame;;1988;Atari Games;Shooter / Driving Vertical;2;0;double joystick,double joystick;good;1;raster;;;;4
+vboy;Virtual Boy;mame;;1995;Nintendo;Game Console / Home Videogame;1;0;double joystick;preliminary;2;raster;;;;4
+von2a;Virtual On 2: Oratorio Tangram (Revision A);mame;von2;1998;Sega;Shooter / Versus;1;0;double joystick;preliminary;1;raster;von2;;;4
+von2;Virtual On 2: Oratorio Tangram (Revision B);mame;;1998;Sega;Shooter / Versus;1;0;double joystick;preliminary;1;raster;;;;4
+von254g;Virtual On 2: Oratorio Tangram (ver 5.4g);mame;von2;1998;Sega;Shooter / Versus;1;0;double joystick;preliminary;1;raster;von2;;;4
+hotsmash;Vs. Hot Smash;mame;;1987;Kaneko / Taito;Sports / Misc.;2;90;dial,dial;good;1;raster;;;;1
+soniccar;Waku Waku Sonic Patrol Car;mame;;1991;Sega;Driving / Race;1;0;double joystick;good;1;raster;;;;4
+wallc;Wall Crash (set 1);mame;;1984;Midcoin;Ball & Paddle / Breakout;1;0;dial;good;1;raster;;;;2
+wallca;Wall Crash (set 2);mame;wallc;1984;Midcoin;Ball & Paddle / Breakout;1;0;dial;good;1;raster;wallc;;;2
+wmatch;Water Match (315-5064);mame;;1984;Sega;Sports / Track & Field;2;270;double joystick,double joystick;good;1;raster;;;;1
+westgun2;Western Gun Part II;mame;sheriff;1980;Nintendo (Taito Corporation license);Shooter / Field;2;270;double joystick,double joystick;good;1;raster;sheriff;;;1
+wfortune;Wheel Of Fortune (set 1);mame;;1989;GameTek;Quiz / Questions in English;3;0;dial,dial,only_buttons;good;1;raster;;;;1
+wfortunea;Wheel Of Fortune (set 2);mame;wfortune;1989;GameTek;Quiz / Questions in English;3;0;dial,dial,only_buttons;good;1;raster;wfortune;;;1
+wwestern;Wild Western (set 1);mame;;1982;Taito Corporation;Shooter / Misc. Vertical;2;270;double joystick,double joystick;good;1;raster;;;;2
+wwestern1;Wild Western (set 2);mame;wwestern;1982;Taito Corporation;Shooter / Misc. Vertical;2;270;double joystick,double joystick;good;1;raster;wwestern;;;2
+wmg;Williams Multigame;mame;;2001;hack (Clay Cowgill);MultiGame / Compilation;2;0;double joystick,joystick (2-way);good;1;raster;;;;6
+wink;Wink (set 1);mame;;1985;Midcoin;Ball & Paddle / Breakout;1;0;dial;preliminary;1;raster;;;;3
+winka;Wink (set 2);mame;wink;1985;Midcoin;Ball & Paddle / Breakout;1;0;dial;preliminary;1;raster;wink;;;3
+wizwarz;Wiz Warz (prototype);mame;;1984;Mylstar;Shooter / Gallery;1;0;joystick (8-way),dial;good;1;raster;;;;1
+wolfpack;Wolf Pack (prototype);mame;;1978;Atari;Shooter / Gallery;1;180;dial;imperfect;1;raster;;;;1
+wrallyat;World Rally (US, 930217);mame;wrally;1993;Gaelco (Atari license);Driving / Race;2;0;joystick (8-way),dial,joystick (8-way);good;1;raster;wrally;;;2
+wrally;World Rally (Version 1.0, Checksum 0E56);mame;;1993;Gaelco;Driving / Race;2;0;joystick (8-way),dial,joystick (8-way);good;1;raster;;;;2
+wrallya;World Rally (Version 1.0, Checksum 3873);mame;wrally;1993;Gaelco;Driving / Race;2;0;joystick (8-way),dial,joystick (8-way);good;1;raster;wrally;;;2
+wrallyb;World Rally (Version 1.0, Checksum 8AA2);mame;wrally;1993;Gaelco;Driving / Race;2;0;joystick (8-way),dial,joystick (8-way);good;1;raster;wrally;;;2
+zekepeak;Zeke's Peak;mame;icecold;1983;Taito;Electromechanical / Misc.;1;;double joystick;preliminary;0;;icecold;;mechanical;
+zektor;Zektor (revision B);mame;;1982;Sega;Shooter / Field;1;180;dial;imperfect;1;vector;;;;2
+zwackery;Zwackery;mame;;1984;Bally Midway;Platform / Run Jump;1;0;joystick (8-way),dial;good;1;raster;;;;4
+bm1stmix;beatmania (ver JA-B);mame;;1997;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bm2ndmxa;beatmania 2nd MIX (ver JA-A);mame;bm2ndmix;1998;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;bm2ndmix;;chd;5
+bm2ndmix;beatmania 2nd MIX (ver JA-B);mame;;1998;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bm3rdmix;beatmania 3rd MIX (ver JA-A);mame;;1998;Konami;Rhythm / Dance;2;0;dial,dial;good;1;raster;;;chd;5
+bm4thmix;beatmania 4th MIX (ver JA-A);mame;;1999;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bm5thmix;beatmania 5th MIX (ver JA-A);mame;;1999;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bm6thmix;beatmania 6th MIX (ver JA-A);mame;;2001;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bm7thmix;beatmania 7th MIX (ver JA-B);mame;;2001;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmcorerm;beatmania CORE REMIX (ver JA-A);mame;;2000;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmclubmx;beatmania Club MIX (ver JA-A);mame;;2000;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmfinal;beatmania THE FINAL (ver JA-A);mame;;2002;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmcompmx;beatmania complete MIX (ver JA-B);mame;;1999;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmcompm2;beatmania complete MIX 2 (ver JA-A);mame;;2000;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+bmdct;beatmania featuring Dreams Come True (ver JA-A);mame;;2000;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;;;chd;5
+hmcompmx;hiphopmania complete MIX (ver UA-B);mame;bmcompmx;1999;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;bmcompmx;;chd;5
+hmcompm2;hiphopmania complete MIX 2 (ver UA-A);mame;bmcompm2;2000;Konami;Rhythm / Instruments;2;0;dial,dial;good;1;raster;bmcompm2;;chd;5
+aceattac;Ace Attacker (FD1094 317-0059);mame;;1988;Sega;Sports / Volleyball;4;270;positional,trackball,joystick (analog),positional,pedal,trackball,joystick (analog),pedal;good;1;raster;;;;1
+aceattaca;Ace Attacker (Japan, System 16A, FD1094 317-0060);mame;aceattac;1988;Sega;Sports / Volleyball;4;270;positional,trackball,joystick (analog),positional,pedal,trackball,joystick (analog),pedal;good;1;raster;aceattac;;;1
+alphie;Alphie - The Electronic Robot (patent);mame;;1978;Playskool;Misc. / Toy Robot;2;;positional,positional;good;0;;;;;1
+btlfield;Battle Field (Japan);mame;timesold;1987;Alpha Denshi Co. (SNK license);Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;timesold;;;2
+bermudatj;Bermuda Triangle (Japan);mame;bermudat;1987;SNK;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;bermudat;;;2
+bermudata;Bermuda Triangle (World Wars) (US);mame;worldwar;1987;SNK;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;worldwar;;;2
+bermudat;Bermuda Triangle (World?);mame;;1987;SNK;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+boothill;Boot Hill;mame;;1977;Dave Nutting Associates / Midway;Shooter / Versus;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;1
+copsnrob;Cops'n Robbers;mame;;1976;Atari;Shooter / Versus;4;0;positional,positional,positional,positional;imperfect;1;raster;;;;2
+dendego;Densha de GO! (Ver 2.2 J);mame;;1996;Taito;Driving / 1st Person;1;0;positional,paddle;imperfect;1;raster;;;;1
+dendego2;Densha de GO! 2 Kousoku-hen (Ver 2.5 J);mame;;1998;Taito;Driving / 1st Person;1;0;positional,paddle;imperfect;1;raster;;;;1
+dendego23k;Densha de GO! 2 Kousoku-hen 3000-bandai (Ver 2.20 J);mame;dendego2;1998;Taito;Driving / 1st Person;1;0;positional,paddle;imperfect;1;raster;dendego2;;;1
+dendegox;Densha de GO! EX (Ver 2.4 J);mame;dendego;1996;Taito;Driving / 1st Person;1;0;positional,paddle;imperfect;1;raster;dendego;;;1
+dogpatch;Dog Patch;mame;;1977;Midway;Shooter / Versus;2;0;positional,positional;imperfect;1;raster;;;;1
+dogosoke;Dogou Souken;mame;victroad;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;victroad;;;2
+downtownj;DownTown / Mokugeki (joystick hack);mame;downtown;1989;Seta;Fighter / Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;downtown;;;2
+downtownp;DownTown / Mokugeki (prototype);mame;downtown;1989;Seta;Fighter / Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;downtown;;;2
+downtown;DownTown / Mokugeki (set 1);mame;;1989;Seta;Fighter / Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+downtown2;DownTown / Mokugeki (set 2);mame;downtown;1989;Seta;Fighter / Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;downtown;;;2
+exctleag;Excite League (FD1094 317-0079);mame;;1988;Sega;Sports / Baseball;2;0;positional,trackball,positional,trackball;good;1;raster;;;;3
+exctleagd;Excite League (bootleg of FD1094 317-0079 set);mame;exctleag;1988;bootleg;Sports / Baseball;2;0;positional,trackball,positional,trackball;good;1;raster;exctleag;;;3
+gondo;Gondomania (US);mame;;1987;Data East USA;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+gwarb;Guerrilla War (Joystick hack bootleg);mame;gwar;1987;bootleg;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;gwar;;;2
+gwar;Guerrilla War (US);mame;;1987;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+gwara;Guerrilla War (Version 1, set 1);mame;gwar;1987;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;gwar;;;2
+gwarab;Guerrilla War (Version 1, set 2);mame;gwar;1987;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;gwar;;;2
+gwarj;Guevara (Japan);mame;gwar;1987;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;gwar;;;2
+gunfight;Gun Fight (set 1);mame;;1975;Dave Nutting Associates / Midway;Shooter / Versus;2;0;joystick (8-way),positional,joystick (8-way),positional;imperfect;1;raster;;;;1
+gunfighto;Gun Fight (set 2);mame;gunfight;1975;Dave Nutting Associates / Midway;Shooter / Versus;2;0;joystick (8-way),positional,joystick (8-way),positional;imperfect;1;raster;gunfight;;;1
+hbarrel;Heavy Barrel (US);mame;;1987;Data East USA;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+hbarrelw;Heavy Barrel (World);mame;hbarrel;1987;Data East Corporation;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;hbarrel;;;2
+ikarijp;Ikari (Japan No Continues);mame;ikari;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari;;;2
+ikari3u;Ikari III - The Rescue (US, Rotary Joystick);mame;ikari3;1989;SNK;Shooter / Walking;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari3;;;3
+ikari3;Ikari III - The Rescue (World version 1, 8-Way Joystick);mame;;1989;SNK;Shooter / Walking;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;3
+ikari3w;Ikari III - The Rescue (World, Rotary Joystick);mame;ikari3;1989;SNK;Shooter / Walking;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari3;;;3
+ikari3j;Ikari Three (Japan, Rotary Joystick);mame;ikari3;1989;SNK;Shooter / Walking;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari3;;;3
+ikari3k;Ikari Three (Korea, 8-Way Joystick);mame;ikari3;1989;SNK;Shooter / Walking;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari3;;;3
+ikari;Ikari Warriors (US JAMMA);mame;;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+ikarinc;Ikari Warriors (US No Continues);mame;ikari;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari;;;2
+ikaria;Ikari Warriors (US, set 1);mame;ikari;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari;;;2
+ikaria2;Ikari Warriors (US, set 2);mame;ikari;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;ikari;;;2
+jackalr;Jackal (World, Rotary Joystick);mame;jackal;1986;Konami;Shooter / Driving Vertical;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;jackal;;;2
+jackalbl;Jackal (bootleg, Rotary Joystick);mame;jackal;1986;bootleg;Shooter / Driving Vertical;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;jackal;;;2
+lastsurv;Last Survivor (Japan) (FD1094 317-0083);mame;;1989;Sega;Shooter / 3rd Person;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;1
+lastsurvd;Last Survivor (Japan) (bootleg of FD1094 317-0083 set);mame;lastsurv;1989;bootleg;Shooter / 3rd Person;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;lastsurv;;;1
+makyosen;Makyou Senshi (Japan);mame;gondo;1987;Data East Corporation;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;gondo;;;2
+midresj;Midnight Resistance (Japan);mame;midres;1989;Data East Corporation;Platform / Shooter Scrolling;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;midres;;;2
+midresbj;Midnight Resistance (Joystick bootleg);mame;midres;1989;bootleg;Platform / Shooter Scrolling;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;midres;;;2
+midresu;Midnight Resistance (US);mame;midres;1989;Data East USA;Platform / Shooter Scrolling;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;midres;;;2
+midres;Midnight Resistance (World);mame;;1989;Data East Corporation;Platform / Shooter Scrolling;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+midresb;Midnight Resistance (bootleg with 68705);mame;midres;1989;bootleg;Platform / Shooter Scrolling;2;0;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;midres;;;2
+pachifev;Pachifever;mame;;1983;Sanki Denshi Kogyo;Misc. / Pachinko;2;270;positional,positional;imperfect;1;raster;;;;1
+panther;Panther;mame;;1981;Irem;Shooter / Gallery;2;270;joystick (2-way),positional,joystick (2-way);preliminary;1;raster;;;;4
+searcharj;SAR - Search And Rescue (Japan version 3);mame;searchar;1989;SNK;Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;searchar;;;2
+searcharu;SAR - Search And Rescue (US);mame;searchar;1989;SNK;Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;searchar;;;2
+searchar;SAR - Search And Rescue (World);mame;;1989;SNK;Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+seawolf;Sea Wolf (set 1);mame;;1976;Dave Nutting Associates / Midway;Shooter / Gallery;1;0;positional;imperfect;1;raster;;;;1
+seawolfo;Sea Wolf (set 2);mame;seawolf;1976;Dave Nutting Associates / Midway;Shooter / Gallery;1;0;positional;imperfect;1;raster;seawolf;;;1
+seawolf2;Sea Wolf II;mame;;1978;Dave Nutting Associates / Midway;Shooter / Gallery;2;0;positional,positional;imperfect;1;raster;;;;1
+spcenctr;Space Encounters;mame;;1980;Midway;Shooter / Gallery;1;0;positional;imperfect;1;raster;;;;1
+suprleag;Super League (FD1094 317-0045);mame;;1987;Sega;Sports / Baseball;2;0;positional,trackball,positional,trackball;good;1;raster;;;;3
+sspeedr;Super Speed Race;mame;;1979;Midway;Driving / Race;1;270;positional;preliminary;1;raster;;;;1
+tnk3j;T.A.N.K (Japan);mame;tnk3;1985;SNK;Shooter / Driving Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;tnk3;;;2
+tnk3;T.N.K III (US);mame;;1985;SNK;Shooter / Driving Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+timesold1;Time Soldiers (US Rev 1);mame;timesold;1987;Alpha Denshi Co. (SNK/Romstar license);Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;timesold;;;2
+timesold;Time Soldiers (US Rev 3);mame;;1987;Alpha Denshi Co. (SNK/Romstar license);Shooter / Walking;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+topgunbl;Top Gunner (bootleg, Rotary Joystick);mame;jackal;1986;bootleg;Shooter / Driving Vertical;2;90;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;jackal;;;2
+victroad;Victory Road;mame;;1986;SNK;Shooter / Walking;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+worldwar;World Wars (World?);mame;;1987;SNK;Shooter / Flying Vertical;2;270;joystick (8-way),positional,joystick (8-way),positional;good;1;raster;;;;2
+unkeinv;unknown electronic Space Invaders game (patent);mame;;1980;Gordon Barlow Design;Handheld / Electronic Game;1;;positional;good;0;;;;;1

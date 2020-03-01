@@ -1,0 +1,35 @@
+Installed raku, binary is perl6
+Installed zef using instructions on zef module in https://github.com/ugexe/zef
+Installed XML library using zef install XML
+Tested using sample code
+
+Getting Perl6 mode on emacs:
+git clone https://github.com/jwiegley/use-package.git ~/.emacs.d/site-lisp/use-package
+cd .emacs.d/site-lisp/use-package/
+
+installed make, ran make for use-package. Some docs failed to be created, ignored
+modified .emacs to add:
+
+(require 'package)
+(add-to-list 'package-archives
+             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
+
+
+
+(add-to-list 'load-path "~/.emacs.d/site-lisp/use-package")
+(require 'use-package)
+
+(with-eval-after-load 'info
+  (info-initialize)
+  (add-to-list 'Info-directory-list
+               "~/.emacs.d/site-lisp/use-package/"))
+
+
+(use-package perl6-mode
+  :ensure t
+  :defer t
+)
+Then ran M-x package-initialize
+
+Evaluated the (use-package perl6-mode... and it enters perl6 mode upon editing .p6 files
+

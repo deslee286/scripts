@@ -1,0 +1,5 @@
+Installed raku, binary is perl6
+Installed zef using instructions on zef module in https://github.com/ugexe/zef
+Installed XML library using zef install XML
+Tested using sample code
+
